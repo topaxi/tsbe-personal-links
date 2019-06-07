@@ -1,0 +1,23 @@
+{
+  "name": "personal-links",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitlab.com:cellcore/personal-links.git",
+  "author": "Damian Senn <damian.senn@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/plugin-proposal-decorators": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "lit-element": "^2.1.0",
+    "localforage": "^1.7.3",
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.5.1"
+  }
+}
