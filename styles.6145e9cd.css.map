@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles/index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"styles.6145e9cd.css","sourceRoot":"../src","sourcesContent":["*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}\n\nbody {\n  margin: 0;\n  font-family: 'Calibri', sans-serif;\n}\n"]}
